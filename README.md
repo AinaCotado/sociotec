@@ -1,1 +1,1 @@
-# sociotec
+# sociotech
